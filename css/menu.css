@@ -19,6 +19,7 @@
 .odin-recipes-menu__list {
     margin-top: 20px;
     font-size: 20px;
+    list-style-type: none;
 }
 
 .odin-recipes-menu__list li {
