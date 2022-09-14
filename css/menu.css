@@ -1,0 +1,35 @@
+/* Odin recipes section */
+.odin-recipes-menu {
+    padding: 50px 0;
+}
+
+.odin-recipes-menu__container {
+    width: 450px;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.odin-recipes-menu__container h1 {
+    font-size: 40px;
+    color: #e3b261;
+}
+
+.odin-recipes-menu__list {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.odin-recipes-menu__list li {
+    margin-top: 16px;
+}
+
+.odin-recipes-menu__list a {
+    font-weight: 600;
+    color: #111827;
+}
+
+.odin-recipes-menu__list a:hover {
+    text-decoration: underline;
+}
