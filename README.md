@@ -5,4 +5,5 @@ This is a project from the Web Fundamentals course of the Odin Project.
 
 ## Skills I'll learn
 - HTML5
+- CSS3
 - Git & GitHub
