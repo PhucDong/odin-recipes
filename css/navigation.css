@@ -1,0 +1,23 @@
+header {
+    padding: 16px 0;
+    box-shadow: 0px 1px 6px rgb(195, 195, 195);
+}
+
+.top-navigation ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.top-navigation ul li {
+    margin-right: 32px;
+}
+
+.top-navigation a {
+    font-size: 18px;
+    color: #111827;
+}
+
+.top-navigation a:hover {
+    text-decoration: underline;
+}
